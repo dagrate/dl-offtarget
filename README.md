@@ -16,10 +16,10 @@ to do
 | Deadlines     | Topics        | Progress      |
 | ------------- | ------------- | ------------- |
 | Now -> End of February  | 
-- Get all the datasets required for the experiments >>ongoing 
-- Get the validated off-targets from Maximilian >>ongoing
-- Continue the literature review >>ongoing
-- Continue the data exploration >>ongoing|
+->Get all the datasets required for the experiments >>ongoing 
+->Get the validated off-targets from Maximilian >>ongoing
+->Continue the literature review >>ongoing
+->Continue the data exploration >>ongoing|
 | Now ->  End of March | 
 - Continue the data exploration of the datasets >>ongoing
 - Continue the development of the deep learning model >>to becompleted
