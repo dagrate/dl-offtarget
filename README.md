@@ -15,6 +15,11 @@ to do
 
 | Deadlines     | Topics        | Progress      |
 | ------------- | ------------- | ------------- |
+| Now -> End of February  | Get all the datasets required for the experiments <br> Get the validated off-targets from Maximilian <br> Continue the literature review <br> Continue the data exploration | ongoing <br> ongoing <br> ongoing <br> |
+
+
+| Deadlines     | Topics        | Progress      |
+| ------------- | ------------- | ------------- |
 | Now -> End of February  | 
 ->Get all the datasets required for the experiments >>ongoing 
 ->Get the validated off-targets from Maximilian >>ongoing
