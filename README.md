@@ -20,21 +20,16 @@ to do
 - Get the validated off-targets from Maximilian >>ongoing
 - Continue the literature review >>ongoing
 - Continue the data exploration >>ongoing|
-
 | Now ->  End of March | 
 - Continue the data exploration of the datasets >>ongoing
 - Continue the development of the deep learning model >>to becompleted
 - Obtain results >>tobecompleted|
-
-
 | April ->  Mid of May | 
 - Finish the experiments for the papers >>notyetstarted
 - Start the writing of the paper >>notyetstarted
 - Continue the development of the deep learning model >>notyetstarted |
-
 | Mid of May ->  End of May | 
 - Review process >>notyetstarted |
-
 | Mid of May ->  End of May | 
 - Review process >>notyetstarted |
 
