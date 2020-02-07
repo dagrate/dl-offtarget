@@ -46,6 +46,8 @@ https://academic.oup.com/nar/article/46/W1/W242/4995687
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4934014/#MOESM1
 
 ## Reference Papers
+
+```bibtex
 @article{peng2018recognition,
   title={Recognition of CRISPR/Cas9 off-target sites through ensemble learning of uneven mismatch distributions},
   author={Peng, Hui and Zheng, Yi and Zhao, Zhixun and Liu, Tao and Li, Jinyan},
@@ -56,6 +58,17 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4934014/#MOESM1
   year={2018},
   publisher={Oxford University Press}
 }
+```
 
-Off-target predictions in CRISPR-Cas9 gene editing using deep learning
-Recognition of CRISPR/Cas9 off-target sites through ensemble learning of uneven mismatch distributions
+```bibtex
+@article{lin2018off,
+  title={Off-target predictions in CRISPR-Cas9 gene editing using deep learning},
+  author={Lin, Jiecong and Wong, Ka-Chun},
+  journal={Bioinformatics},
+  volume={34},
+  number={17},
+  pages={i656--i663},
+  year={2018},
+  publisher={Oxford University Press}
+}
+```
