@@ -13,8 +13,8 @@ to do
 
 ## Planning 
 
-| Deadlines  | Topics | Progress |
-| ------------- | ------------- |
+| Deadlines     | Topics        | Progress      |
+| ------------- | ------------- | ------------- |
 | Now -> End of February  | 
 - Get all the datasets required for the experiments >>ongoing 
 - Get the validated off-targets from Maximilian >>ongoing
