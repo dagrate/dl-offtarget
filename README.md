@@ -25,33 +25,25 @@ to do
 to be uploaded
 
 ## Useful Links
-https://github.com/MichaelLinn/off_target_prediction
-
-https://github.com/maximilianh/crisporWebsite/blob/master/crispor.py
-
-https://github.com/snugel/cas-offinder
-
-https://github.com/maximilianh/crisporPaper
-
-https://github.com/maximilianh/crisporWebsite
-
-https://www.nature.com/articles/nbt.2647.pdf
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4934014/
-
-https://github.com/penn-hui/OfftargetPredict
-
+https://github.com/MichaelLinn/off_target_prediction <br>
+https://github.com/maximilianh/crisporWebsite/blob/master/crispor.py <br>
+https://github.com/snugel/cas-offinder <br>
+https://github.com/maximilianh/crisporPaper <br>
+https://github.com/maximilianh/crisporWebsite <br>
+https://www.nature.com/articles/nbt.2647.pdf <br>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4934014/ <br> 
+https://github.com/penn-hui/OfftargetPredict <br>
 http://crispor.tefor.net/crispor.py <br>
 http://crispor.tefor.net/crispor.py?batchId=Hhy9cgeNNwUa7i9rrSii <br>
 http://crispor.tefor.net/crispor.py?batchId=k7O3jkTr6ysuOKecomWy <br>
 http://crispor.tefor.net/crispor.py?batchId=NaWVB2pRNB5HBaFwpVEX <br>
 http://crispor.tefor.net/manual/#onEff <br>
-http://crispor.tefor.net/crispor.py?batchId=NaWVB2pRNB5HBaFwpVEX&pamId=s20%2B&pam=NGG
-http://crispor.tefor.net/crispor.py?batchId=aBObqjtcNTEQefwXwQ0E&pamId=s20%2B&otPrimers=1
-https://github.com/maximilianh/crisporWebsite/blob/master/crisporEffScores.py
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4934014/#MOESM8
-https://academic.oup.com/nar/article/46/W1/W242/4995687
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4934014/#MOESM1
+http://crispor.tefor.net/crispor.py?batchId=NaWVB2pRNB5HBaFwpVEX&pamId=s20%2B&pam=NGG <br>
+http://crispor.tefor.net/crispor.py?batchId=aBObqjtcNTEQefwXwQ0E&pamId=s20%2B&otPrimers=1 <br>
+https://github.com/maximilianh/crisporWebsite/blob/master/crisporEffScores.py <br>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4934014/#MOESM8 <br>
+https://academic.oup.com/nar/article/46/W1/W242/4995687 <br>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4934014/#MOESM1 <br>
 
 ## Reference Papers
 
