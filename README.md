@@ -26,18 +26,26 @@ to be uploaded
 
 ## Useful Links
 https://github.com/MichaelLinn/off_target_prediction
+
 https://github.com/maximilianh/crisporWebsite/blob/master/crispor.py
+
 https://github.com/snugel/cas-offinder
+
 https://github.com/maximilianh/crisporPaper
+
 https://github.com/maximilianh/crisporWebsite
+
 https://www.nature.com/articles/nbt.2647.pdf
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4934014/
+
 https://github.com/penn-hui/OfftargetPredict
-http://crispor.tefor.net/crispor.py
-http://crispor.tefor.net/crispor.py?batchId=Hhy9cgeNNwUa7i9rrSii
-http://crispor.tefor.net/crispor.py?batchId=k7O3jkTr6ysuOKecomWy
-http://crispor.tefor.net/crispor.py?batchId=NaWVB2pRNB5HBaFwpVEX
-http://crispor.tefor.net/manual/#onEff
+
+http://crispor.tefor.net/crispor.py <br>
+http://crispor.tefor.net/crispor.py?batchId=Hhy9cgeNNwUa7i9rrSii <br>
+http://crispor.tefor.net/crispor.py?batchId=k7O3jkTr6ysuOKecomWy <br>
+http://crispor.tefor.net/crispor.py?batchId=NaWVB2pRNB5HBaFwpVEX <br>
+http://crispor.tefor.net/manual/#onEff <br>
 http://crispor.tefor.net/crispor.py?batchId=NaWVB2pRNB5HBaFwpVEX&pamId=s20%2B&pam=NGG
 http://crispor.tefor.net/crispor.py?batchId=aBObqjtcNTEQefwXwQ0E&pamId=s20%2B&otPrimers=1
 https://github.com/maximilianh/crisporWebsite/blob/master/crisporEffScores.py
