@@ -9,6 +9,12 @@ to do
 ## 
 
 ## Data Observations
+to upload
+
+## Target 
+1. ICDM - June 2, 2020 - http://www.icdm2020.unical.it/ - Format: 8 pages double column IEEE template
+
+2. Bioinformatics (extended version) https://academic.oup.com/bioinformatics/pages/instructions_for_authors - Format: approximately 5,000 words, between 7 and 8 double column pages
 
 
 ## Planning 
