@@ -28,7 +28,11 @@ to upload
 | Mid of May ->  End of May | Review process | not yet started |
 
 ## Preliminary Results
-to be uploaded
+
+<p align="middle">
+  <img src="https://github.com/dagrate/PHom-WAE/blob/master/images/originalSamples_barcode.png" width="250"/>
+</p>
+*sequence encoding for the deep neural networks*
 
 ## Useful Links
 https://github.com/MichaelLinn/off_target_prediction <br>
