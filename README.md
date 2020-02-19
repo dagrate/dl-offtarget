@@ -30,7 +30,7 @@ to upload
 ## Preliminary Results
 
 <p align="middle">
-  <img src="https://github.com/dagrate/dl-offtarget/blob/master/images/encoded_sequence.png" width="250"/>
+  <img src="https://github.com/dagrate/dl-offtarget/blob/master/images/encoded_sequence.png" width="750"/>
 </p>
 
 *sequence encoding for the deep neural networks*
