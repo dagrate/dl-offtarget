@@ -36,7 +36,7 @@ to upload
 *sequence encoding for the deep neural networks*
 
 <p align="middle">
-  <img src="https://github.com/dagrate/dl-offtarget/blob/master/images/val_off_targets.png" width="750"/>
+  <img src="https://github.com/dagrate/dl-offtarget/blob/master/images/val_off_targets.png" width="250"/>
 </p>
 
 *validated off-targets with labels for binary classification*
