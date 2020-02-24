@@ -35,6 +35,18 @@ to upload
 
 *sequence encoding for the deep neural networks*
 
+<p align="middle">
+  <img src="https://github.com/dagrate/dl-offtarget/blob/master/images/val_off_targets.png" width="750"/>
+</p>
+
+*validated off-targets with labels for binary classification*
+
+<p align="middle">
+  <img src="https://github.com/dagrate/dl-offtarget/blob/master/images/val_off_targets_enc.png" width="750"/>
+</p>
+
+*encoded validated off-targets with labels for binary classification*
+
 ## Useful Links
 https://github.com/MichaelLinn/off_target_prediction <br>
 https://github.com/maximilianh/crisporWebsite/blob/master/crispor.py <br>
