@@ -41,6 +41,13 @@ to upload
 
 *encoded validated off-targets with labels for binary classification*
 
+<p align="middle">
+  <img src="https://github.com/dagrate/dl-offtarget/blob/master/images/val_off_target_sample_enc_img.png" width="500"/>
+  <img src="https://github.com/dagrate/dl-offtarget/blob/master/images/put_off_target_sample_enc_img.png" width="500"/>
+</p>
+
+*validated off-targets (left) and putative off-targets (right) encoded as image for deep learning binary classification*
+
 ## Useful Links
 https://github.com/MichaelLinn/off_target_prediction <br>
 https://github.com/maximilianh/crisporWebsite/blob/master/crispor.py <br>
