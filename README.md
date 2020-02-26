@@ -1,7 +1,8 @@
 # dl-offtarget
 
-Deep Learning for off-target predictions
-
+Deep Learning for off-target predictions <br>
+Code Description: <br>
+- offtarget_createdataset contains the code to create the Bunch of the crispor data used for the experiments
 
 ## Overleaf Template and Direct Link
 to do 
