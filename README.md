@@ -4,8 +4,8 @@ Deep Learning for off-target predictions <br>
 
 Code Description: <br>
 - *offtarget_createdataset.ipynb* -> create the Bunch of the crispor data used for the experiments
-- *offtarget_models.ipynb* -> all the models used for the experiments
-- *offtarget_experiments.ipynb* -> experiments and results plots
+- *offtarget_models.ipynb* -> all the models used for the experiments (currently under development)
+- *offtarget_experiments.ipynb* -> experiments and results plots (to be developped)
 
 ## Overleaf Template and Direct Link
 to do 
