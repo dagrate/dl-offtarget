@@ -37,7 +37,7 @@ to upload
   <img src="https://github.com/dagrate/dl-offtarget/blob/master/images/encoded_sequence.png" width="750"/>
 </p>
 
-*sequence encoding for the deep neural networks*
+*sequence encoding for the deep neural networks from \cite{lin2018off}*
 
 <p align="middle">
   <img src="https://github.com/dagrate/dl-offtarget/blob/master/images/val_off_targets_enc.png" width="750"/>
