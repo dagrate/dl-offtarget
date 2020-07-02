@@ -8,6 +8,10 @@ Code Description: <br>
 - *experiments/offtargetmodelsexperiments_8x23.py* -> code to reproduce the experiments with 8 x 23 encoding
 - *images/* -> images presented in our publication
 
+Saved Models: <br>
+- *saved_model_4x23* -> saved deep learning models for the predictions with 4x23 encoding. RF has a fixed random seed for the reproducibility of the results.
+- *saved_model_crispr_8x23* -> saved deep learning models for the predictions with 8x23 encoding on CRISPOR data set. RF has a fixed random seed for the reproducibility of the results.
+- *saved_model_guideseq_8x23* -> saved deep learning models for the predictions with 8x23 encoding on GUIDE-seq data set with transfer learning. RF has a fixed random seed for the reproducibility of the results.
 
 ## Reference Papers
 
