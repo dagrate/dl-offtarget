@@ -4,6 +4,7 @@ Deep Learning for off-target predictions <br>
 
 Code Description: <br>
 - *data/offtarget_createdataset.py* -> create the Bunch of the crispor data used for the experiments
+- *offtargetcreateguideseqdataset.py* -> create the Bunch for the guide-seq experiments
 - *experiments/offtargetmodelsexperiments_4x23.py* -> code to reproduce the experiments with 4 x 23 encoding
 - *experiments/offtargetmodelsexperiments_8x23.py* -> code to reproduce the experiments with 8 x 23 encoding
 
