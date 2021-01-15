@@ -10,7 +10,7 @@ Code Description: <br>
 - *experiments/ffns.py* -> FNNs code implementation
 - *experiments/mltrees.py* -> machine learning algorithms (RF, LR, NB)
 - *experiments/rnns.py* -> RNNs code implementation
-- *experiments/utilities.py* -> utilities function to process the data or the results (plot graphs)
+- *experiments/utilities.py* -> utilities function to process the data or plot graphs
 
 Saved Models: <br>
 - *saved_model_4x23* -> saved deep learning models for the predictions with 4x23 encoding. RF has a fixed random seed for the reproducibility of the results.
