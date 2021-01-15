@@ -5,8 +5,11 @@ Deep Learning for off-target predictions <br>
 Code Description: <br>
 - *data/offtarget_createdataset.py* -> create the Bunch of the crispor data used for the experiments
 - *data/offtargetcreateguideseqdataset.py* -> create the Bunch for the guide-seq experiments
-- *experiments/offtargetmodelsexperiments_4x23.py* -> code to reproduce the experiments with 4 x 23 encoding
-- *experiments/offtargetmodelsexperiments_8x23.py* -> code to reproduce the experiments with 8 x 23 encoding
+- *experiments/offtargetsexp.py* -> code to reproduce the experiments with 4 x 23 & 8 x 23 encodings
+- *experiments/cnns.py* -> CNNs code implementation
+- *experiments/ffns.py* -> FNNs code implementation
+- *experiments/mltrees.py* -> machine learning algorithms (RF, LR, NB)
+- *experiments/rnns.py* -> RNNs code implementation
 
 Saved Models: <br>
 - *saved_model_4x23* -> saved deep learning models for the predictions with 4x23 encoding. RF has a fixed random seed for the reproducibility of the results.
